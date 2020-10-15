@@ -5,7 +5,7 @@ Front End Developer
 
 [](https://17677375061.github.io/#personal-profile)
 
-[要记住这是李松泓的个人主页哦！](https://17677375061.github.io)/(http://17677375061.top)
+[要记住这是李松泓的个人主页哦！](https://17677375061.github.io)
    
    1.自我介绍
    
