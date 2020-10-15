@@ -5,7 +5,7 @@ Front End Developer
 
 [](https://17677375061.github.io/#personal-profile)
 
-[中文](https://17677375061.github.io/#) / [EN](https://17677375061.github.io/en_index.html) 
+要记住这个网址哦！这是我的个人主页哦！(https://17677375061.github.io/#)
    
    1.自我介绍
    
