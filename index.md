@@ -1,6 +1,6 @@
-![](./Kuroko __ Front End Developer __ Professional /证件照.jpg)
+![](./证件照.jpg)
 
-![Pablo Fernandez Signature](./Kuroko __ Front End Developer __ Professional /证件照.jpg)
+![Pablo Fernandez Signature](./证件照.jpg)
 =========================================================================================================
 
 Front End Developer
@@ -9,7 +9,7 @@ Front End Developer
 
 [中文](https://17677375061.github.io/#) / [EN](https://17677375061.github.io/en_index.html)
 
- [![](./Kuroko __ Front End Developer __ Professional Resume_files/证件照.jpg)](https://17677375061.github.io/#) 
+ [![](./证件照.jpg)](https://17677375061.github.io/#) 
 
 *   [关于我](https://17677375061.github.io/#personal-profile)
 *   [工作经历](https://17677375061.github.io/#work-experience)
@@ -22,7 +22,7 @@ Front End Developer
 关于我
 ===
 
-![](./Kuroko __ Front End Developer __ Professional Resume_files/Portfolio.png)
+![](./靓仔照.png)
 
 ### 自我介绍
 
