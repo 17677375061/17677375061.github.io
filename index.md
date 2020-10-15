@@ -1,5 +1,3 @@
-![](./证件照.jpg)
-
 ![Pablo Fernandez Signature](./证件照.jpg)
 =========================================================================================================
 
@@ -11,10 +9,10 @@ Front End Developer
 
  [![](./证件照.jpg)](https://17677375061.github.io/#) 
 
-*   [自我介绍](https://17677375061.github.io/#personal-profile)
-*   [项目经历](https://17677375061.github.io/#work-experience)
-*   [教育背景](https://17677375061.github.io/#education)
-*   [技能](https://17677375061.github.io/#skills)
+   1.自我介绍
+   2.项目经历
+   3.教育背景
+   4.技能
 *   [Github](https://17677375061.github.io/#github)
 
 我是谁？
@@ -22,7 +20,7 @@ Front End Developer
 关于我
 ===
 
-![](./靓仔照.png)
+![](./靓仔照.jpg)
 
 ### 自我介绍
 
