@@ -6,6 +6,7 @@ Front End Developer
 [](https://17677375061.github.io/#personal-profile)
 
 [中文](https://17677375061.github.io/#) / [EN](https://17677375061.github.io/en_index.html) 
+   
    1.自我介绍
    
    2.项目经历
@@ -15,7 +16,6 @@ Front End Developer
    4.技能
    
 *   [Github](https://17677375061.github.io/#github)
-![](./靓仔照.jpg)
 
 **我是谁？-------------李松泓！  
 
