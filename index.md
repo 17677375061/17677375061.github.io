@@ -11,10 +11,10 @@ Front End Developer
 
  [![](./证件照.jpg)](https://17677375061.github.io/#) 
 
-*   [关于我](https://17677375061.github.io/#personal-profile)
-*   [工作经历](https://17677375061.github.io/#work-experience)
+*   [自我介绍](https://17677375061.github.io/#personal-profile)
+*   [项目经历](https://17677375061.github.io/#work-experience)
 *   [教育背景](https://17677375061.github.io/#education)
-*   [专业技能](https://17677375061.github.io/#skills)
+*   [技能](https://17677375061.github.io/#skills)
 *   [Github](https://17677375061.github.io/#github)
 
 我是谁？
